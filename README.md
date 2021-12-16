@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jy1655/jy1655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
