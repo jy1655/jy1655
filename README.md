@@ -1,4 +1,4 @@
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-Black.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=fffff"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <!--
 **jy1655/jy1655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
