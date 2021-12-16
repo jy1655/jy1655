@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy1655&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
 
-https://img.shields.io/github/tooning-repo/issues/survive
+https://img.shields.io/github/issues/beygee/survive
